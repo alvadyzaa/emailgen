@@ -10,3 +10,5 @@ Tool sederhana untuk menghasilkan akun email secara otomatis dengan username dan
 - Kustomisasi domain email
 - Output disimpan dalam file .txt
 - Interface berwarna dan menarik
+
+![Alt text](img.jpg?raw=true "Screenshot")
